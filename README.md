@@ -1,7 +1,7 @@
 # AISOTools MCP Server
 
 A hosted [Model Context Protocol](https://modelcontextprotocol.io) server over the
-[AISOTools](https://aisotools.com) catalog — **1,113 AI tools** with pricing, ratings,
+[AISOTools](https://aisotools.com) catalog — **3,064 AI tools** with pricing, ratings,
 features, pros, cons, and curated alternatives.
 
 There is nothing to install. The server is a stateless Streamable HTTP endpoint:
@@ -58,7 +58,7 @@ curl -sS https://aisotools.com/api/mcp \
 
 ## Notes on the data
 
-- `totalTools` is **1,113** at the time of writing and moves as the catalog grows;
+- `totalTools` is **3,064** at the time of writing and moves as the catalog grows;
   `search_ai_tools` reports both `matched` and `searched` so you can see the
   denominator it actually searched.
 - `sponsored` is computed against the placement's expiry, so a lapsed sponsorship

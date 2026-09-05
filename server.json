@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.shibley/aisotools",
   "title": "AISOTools",
-  "description": "Search, compare, and find alternatives across a curated catalog of 1,100+ AI tools.",
-  "version": "0.1.0",
+  "description": "Search, compare, and find alternatives across a catalog of 3,064 AI tools.",
+  "version": "0.1.2",
   "websiteUrl": "https://aisotools.com",
   "repository": {
     "url": "https://github.com/shibley/aisotools-mcp-server",
